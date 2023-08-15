@@ -21,7 +21,7 @@ This repo contains a bash script file which actually runs the heudiconv commands
 
 
 This is how a BIDS valid folder to should like. 
-![Screenshot 2023-08-15 at 5 08 42 PM](https://github.com/subhasriviswa/DICOMtoBIDS/assets/62513668/9867f6ed-37c6-47d9-92ad-f2896fe4d991)
+![Screenshot 2023-08-15 at 5 08 42 PM](https://github.com/subhasriviswa/DICOMtoBIDS/assets/62513668/f24d508f-c5ee-4b67-8d16-746e74401dc6)
 
 
 
